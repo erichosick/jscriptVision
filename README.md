@@ -20,5 +20,6 @@ Install [jasmine](https://github.com/pivotal/jasmine).
 ## Run Tests
 
 $ cd PROJECT
+
 $ jasmine-node spec --autotest --watch . --color
 
