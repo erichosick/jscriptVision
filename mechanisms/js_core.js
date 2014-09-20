@@ -28,7 +28,7 @@ module.exports.arr = arr;
 var WriteToConF = function() {};
 WriteToConF.prototype = {
   get go() {
-     var r = this.d.text.asStr;
+     var r = this.d.text.asNum;
      console.log(r);
      return r;
   },
